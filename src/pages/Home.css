@@ -1,0 +1,78 @@
+.bg-image{ 
+    background-image: url('/public/images/cover2.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    padding: 20em;
+    margin :0;
+    padding-top: 0;
+    padding-bottom: 3rem;;
+    position: relative;
+    display: inline-block;
+}
+.bg-image2{
+    background-image: url('/public/images/types1.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    padding: 20em;
+    margin :0;
+    padding-top: 0;
+    padding-bottom: 3rem;
+    display: inline-block;
+    position: relative;
+}
+.title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: dark;
+    align-items: center;
+    margin-bottom: 1em;
+}
+.title1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+    margin: 5px;   
+}
+.head{
+    padding:1.5rem 0 1.5rem 0;
+}
+.bg-image3{
+    background-image: url('/public/images/cover1.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    padding: 20em;
+    margin :0;
+    padding-top: 0;
+    padding-bottom: 3rem;
+    display: inline-block;
+    position: relative;
+}
+.adg{
+    padding-left: 1em; 
+    padding-bottom: 0.25rem;  
+}
+.bg-image4{
+    background-image: url('/public/images/limitations.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    padding: 20em;
+    margin :0;
+    padding-top: 0;
+    padding-bottom: 3rem;
+    display: inline-block;
+    position: relative;
+}
+.bg-image5{
+    background-image: url('/public/images/uk.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    padding: 20em;
+    margin :0;
+    padding-top: 0;
+    padding-bottom: 3rem;
+    display: inline-block;
+    position: relative;
+}
